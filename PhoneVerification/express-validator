@@ -1,0 +1,11 @@
+Express-validator is broken up into the following apis
+
+-check API: Contains all the functions needed to extract values from a request.
+
+-filter API: Contains functions to filter out results from a validation chain
+
+-sanitization chain API: Contains all the functions needed to perform sanitization on values
+
+-validation chain API: Contains all the functions needed to perform validation on input data.
+
+-validation result API: Contains functions used to access the result of a validation check

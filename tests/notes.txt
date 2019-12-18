@@ -1,0 +1,6 @@
+A unit test consists of three parts.
+
+    Arrange
+    Act
+    Assert
+

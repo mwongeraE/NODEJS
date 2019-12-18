@@ -1,0 +1,25 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Fastify API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fastify",
+    "Node",
+    "Mongoose",
+    "MongoDB"
+  ],
+  "author": "Mwongera",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify": "^2.0.0",
+    "fastify-swagger": "^2.3.1",
+    "mongoose": "^5.4.16",
+    "nodemon": "^1.18.10"
+  }
+}

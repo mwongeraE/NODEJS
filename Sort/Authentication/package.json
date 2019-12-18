@@ -1,0 +1,18 @@
+{
+  "name": "Authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mwongera <vrod@game.com>",
+  "license": "ISC",
+  "dependencies": {
+    "connect-redis": "^3.4.1",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "passport": "^0.4.0"
+  }
+}

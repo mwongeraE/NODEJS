@@ -1,0 +1,33 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mwongera <vrod@game.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "good": "^8.1.2",
+    "hapi": "^18.1.0",
+    "mongoskin": "^2.1.0",
+    "morgan": "^1.9.1",
+    "mysql": "^2.17.1",
+    "node-fetch": "^2.5.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@hapi/code": "^5.3.1",
+    "@hapi/lab": "^18.1.2",
+    "expect.js": "^0.3.1",
+    "mocha": "^6.1.4",
+    "superagent": "^5.0.5"
+  }
+}

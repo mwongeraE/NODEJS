@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "2f24vvg",
+      "email": "test@test.com",
+      "password": "password"
+    },
+    {
+      "id": "d1u9nq",
+      "email": "user2@example.com",
+      "password": "password"
+    },
+    {
+      "username": "JohnDoe",
+      "password": "easytocrack",
+      "confirmPassword": "notmatchingpassword",
+      "id": "ixgHrVT"
+    },
+    {
+      "username": "JohnDoe",
+      "password": "easytocrack",
+      "confirmPassword": "notmatchingpassword",
+      "id": "oEWRsjg"
+    }
+  ]
+}
